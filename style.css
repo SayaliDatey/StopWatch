@@ -1,0 +1,31 @@
+.wrapper {
+    width: auto;
+    margin: 30px auto;
+    color:white;
+    text-align:center;
+    background-color: rgb(111, 0, 255);
+    
+    }
+h1,h2,h3,button{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-size: 2.6em;
+}
+ 
+#sec, #minisec, #min{
+    font-size: 2em;
+}
+ 
+button{
+    color:black;
+    background-color: darkgray;
+    width: 25%;
+    cursor: pointer;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    
+}
